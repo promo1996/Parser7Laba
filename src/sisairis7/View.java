@@ -193,9 +193,9 @@ public class View extends JFrame {
             studentListModel.addElement(new Student(id, name, mark));
 
 
-            idField.setText("");
-            nameField.setText("");
-            markField.setText("");
+            idField.setText("_");
+            nameField.setText("_");
+            markField.setText("_");
 
         });
 

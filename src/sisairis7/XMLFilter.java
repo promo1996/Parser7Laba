@@ -17,7 +17,7 @@ public class XMLFilter extends FileFilter {
     }
 
     public String getDescription() {
-        return "Just XML File";
+        return "Emm XML File";
     }
 
 }
